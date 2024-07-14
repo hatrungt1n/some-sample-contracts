@@ -85,6 +85,6 @@ Verify the contracts in Sepolia Network:
 $ yarn verify:sepolia
 ```
 
-## License
+<!-- ## License
 
-This project is licensed under MIT.
+This project is licensed under MIT. -->
